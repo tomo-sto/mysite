@@ -1,0 +1,4 @@
+baseURL = 'https://tomo-sto.github.io/mysite/' # ★ユーザー名を反映しました
+languageCode = 'ja'
+title = '私の理論物理ブログ' # ←こちらは好きなタイトルに変更してください
+theme = 'PaperMod'
